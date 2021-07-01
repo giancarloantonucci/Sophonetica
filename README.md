@@ -6,10 +6,10 @@ Sophonetica is a TrueType font designed to write phonetics using [Luciano Canepa
 
 ## Usage
 
-This font is served via CloudFlare's CDN with https://cdn.rawgit.com/antonuccig/Sophonetica/master/font.css. No traffic limits or throttling.
+This font is served via CloudFlare's CDN with https://ghcdn.rawgit.org/antonuccig/Sophonetica/main/font.css. No traffic limits or throttling.
 ```html
 <head>
-  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/antonuccig/Sophonetica/master/font.css">
+  <link rel="stylesheet" type="text/css" href="https://ghcdn.rawgit.org/antonuccig/Sophonetica/main/font.css">
   <style>
     body {
       font-family: Sophonetica, sans-serif;
