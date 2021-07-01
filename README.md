@@ -12,7 +12,7 @@ This font is served via jsDelivr's CDN:
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.css">
   <style>
     body {
-      font-family: Sophonetica, sans-serif;
+      font-family: Sophonetica, serif;
     }
   </style>
 </head>
