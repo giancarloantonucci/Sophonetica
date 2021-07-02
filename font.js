@@ -1,5 +1,5 @@
 function nativeSelector() {
-    var elements = document.querySelectorAll("can, can *");
+    var elements = document.querySelectorAll("canipa, canipa *");
     var results = [];
     var child;
     for(var i = 0; i < elements.length; i++) {
