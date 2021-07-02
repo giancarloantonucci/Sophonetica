@@ -11,12 +11,20 @@ This font is served via jsDelivr's CDN:
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.css">
   <style>
-    body {
+    canipa {
       font-family: Sophonetica, serif;
     }
   </style>
 </head>
 ```
+
+Because Sophonetica uses many Private Use Area (PUA) code points, `font.js` defines shortcuts that, when inside `<canipa></canipa>`, will print the desired characters. Add the following at the end of the HTML document to use it:
+```html
+<footer>
+  <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.js'></script>
+</footer>
+```
+A full list of escape characters will be provided.
 
 ## License
 
