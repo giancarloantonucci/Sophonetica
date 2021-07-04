@@ -10,21 +10,31 @@ This font is served via jsDelivr's CDN:
 ```html
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.css">
-  <style>
-    canipa {
-      font-family: Sophonetica, serif;
-    }
-  </style>
+  <style> canipa { font-family: Sophonetica, serif; } </style>
 </head>
 ```
 
-Because Sophonetica uses many Private Use Area (PUA) code points, `font.js` defines shortcuts that, when inside `<canipa></canipa>`, will print the desired characters. Add the following at the end of the HTML document to use it:
+Because Sophonetica uses many Private Use Area (PUA) code points, `font.js` defines shortcuts that, when inside `<canipa></canipa>`, will print the desired characters. For example, add
+
 ```html
 <footer>
   <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.js'></script>
 </footer>
 ```
-A full list of escape characters will be provided.
+
+at the end of the HTML document, and
+
+|     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**A**|  i  |  ᴉ  |  ɨ  |  ɯ  |  ш  |  ү  |  y  |  ʉ  |  μ  |  u  |
+|**B**|  ɪ  |  ι  |  ᵻ  |  ⍵  |  щ  |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
+|**C**|  e  |  ɘ  |  ə  |  ɤ  |  ⋉  |  Ø  |  ø  |  ɵ  |  ⱷ  |  o  |
+|**D**|  ᴇ  |  ⱻ  |  ᴈ  |  &  |  ⋊  |  ⍬  |  ᴓ  |  ɞ  |  ᴑ  |  σ  |
+|**E**|  ɛ  |  𐐺  |  ɐ  |  ᴧ  |  ⌆  |  %  |  œ  |  ᴔ  |  ʚ  |  ɔ  |
+|**F**|  æ  |  ᴀ  |  a  |  ɑ  |  ⍺  |  Œ  |  ɶ  |  @  |  ⍶  |  ɒ  |
+
+will map to the full list of 52 + 8 vocoids.
+
 
 ## License
 
