@@ -14,11 +14,11 @@ This font is served via jsDelivr's CDN:
 </head>
 ```
 
-Because Sophonetica uses many Private Use Area (PUA) code points, `font.js` defines shortcuts that, when inside `<canipa></canipa>`, will print the desired characters. For example, add
+Because Sophonetica uses many Private Use Area (PUA) code points, `render.js` defines shortcuts that, when inside `<canipa></canipa>`, will be rendered into the desired characters. For example, add
 
 ```html
 <footer>
-  <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.js'></script>
+  <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/render.js'></script>
 </footer>
 ```
 
