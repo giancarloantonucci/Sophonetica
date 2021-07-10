@@ -9,7 +9,7 @@ Sophonetica is a TrueType font designed to write phonetics using [Luciano Canepa
 This font is served via jsDelivr's CDN:
 ```html
 <head>
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/font.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@latest/font.css">
   <style> canipa { font-family: Sophonetica, serif; } </style>
 </head>
 ```
@@ -18,7 +18,7 @@ Because Sophonetica uses many Private Use Area (PUA) code points, `render.js` de
 
 ```html
 <footer>
-  <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@main/render.js'></script>
+  <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica@latest/render.js'></script>
 </footer>
 ```
 
