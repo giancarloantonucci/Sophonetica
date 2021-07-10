@@ -314,6 +314,61 @@ for (var i = 0, len = textnodes.length; i<len; i++){
     textnodes[i].nodeValue = _nv.replace(/ɒ/g,'\uE03B');
 }
 
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/m/g,'\uE1E1');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/n/g,'\uE20D');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ɲ/g,'\uE22F');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ɱ/g,'\uE1EF');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ņ/g,'\uE22B');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ŋ/g,'\uE239');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ᴫ/g,'\uE1FF');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/C/g,'\uE870');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/V/g,'\uE860');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/⟦/g,'\uE8C2');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/⟧/g,'\uE8C3');
+}
+
 // a̶b̶c̶d̶e̶f̶g̶h̶i̶j̶k̶l̶m̶n̶o̶p̶q̶r̶s̶t̶u̶v̶w̶x̶y̶z̶ ̶A̶B̶C̶D̶E̶F̶G̶H̶I̶J̶K̶L̶M̶N̶O̶P̶Q̶R̶S̶T̶U̶V̶W̶X̶Y̶Z̶
 // ƸYXWVUTƧЯỌꟼOИM⅃ᐴႱIHᎮᖷƎᗡƆᙠA zyxwvuƚƨɿpqonmlʞႱiʜǫʇɘbɔdɒ
 // ɐpⅽqөʈɓµ!ɾʞlwuobdʁƨʇ∩٨ʍxʎz ᗄᗷ⊂DEᖶ⅁HIᘃʞ⅂ʍиObÕᖉᴤ⊥∩⋀MX⅄Z
