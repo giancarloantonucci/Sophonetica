@@ -351,6 +351,46 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/p/g,'\uE270');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/b/g,'\uE271');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/t/g,'\uE28A');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/d/g,'\uE28B');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/k/g,'\uE2CA');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/g/g,'\uE2CB');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ҟ/g,'\uE2C8');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/ꞡ/g,'\uE2C9');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
     textnodes[i].nodeValue = _nv.replace(/C/g,'\uE870');
 }
 
