@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Sophonetica is a TrueType font designed to write phonetics using [Luciano Canepari](https://en.wikipedia.org/wiki/Luciano_Canepari)'s [<sup>can</sup>IPA](http://www.canipa.net/doku.php). I am not the creator of Sophonetica, which one can find more details about at https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz.
+Sophonetica is a TrueType font designed to write phonetics using [Luciano Canepari](https://en.wikipedia.org/wiki/Luciano_Canepari)'s [*<sup>can</sup>IPA*](http://www.canipa.net/doku.php). I am not the creator of Sophonetica, which one can find more details about at https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz.
 
 ## License
 
