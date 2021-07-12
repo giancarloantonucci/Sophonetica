@@ -18,7 +18,7 @@ This font is served via jsDelivr's CDN. It can be added to the header of an HTML
 
 ### Optional: Character shortcuts
 
-Because Sophonetica uses many Private Use Area (PUA) code points, `render.js` defines shortcuts that, when inside `<canipa></canipa>`, will be replaced with the desired code points. Add
+Because Sophonetica uses many Private Use Area (PUA) code points, `render.js` defines character shortcuts that, when put inside `<canipa></canipa>`, will be replaced with the desired code points. Add
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica/render.js'></script>
