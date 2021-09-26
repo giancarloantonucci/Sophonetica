@@ -16,9 +16,11 @@ This font is served via jsDelivr's CDN. It can be added to the header of an HTML
 <style> canipa { font-family: Sophonetica, serif; } </style>
 ```
 
-### Optional: Character shortcuts
+### Shortcuts
 
-Because Sophonetica uses many Private Use Area (PUA) code points, `render.js` defines character shortcuts that, when put inside `<canipa></canipa>`, will be replaced with the desired code points. Add
+Sophonetica uses many Private Use Area (PUA) code points. Hence, `render.js` defines character shortcuts that, when put inside `<canipa></canipa>`, will be replaced with the desired code points:
+
+Add
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica/render.js'></script>
