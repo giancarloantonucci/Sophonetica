@@ -9,7 +9,7 @@ _Sophonetica_ is a TrueType font designed to write phonetics using [Luciano Cane
 We serve _Sophonetica_ via jsDelivr's CDN. Add
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica/font.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/giancarloantonucci/sophonetica/font.css">
 <style> canipa { font-family: Sophonetica, serif; } </style>
 ```
 
@@ -20,7 +20,7 @@ to the header of an HTML document to use it.
 Because _Sophonetica_ uses many Private Use Area (PUA) code points, we have defined some character shortcuts, through `render.js`, that when put inside `<canipa></canipa>` will be replaced with the desired code points. Add
 
 ```html
-<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/antonuccig/Sophonetica/render.js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/giancarloantonucci/sophonetica/render.js'></script>
 ```
 
 to the footer of an HTML document and then

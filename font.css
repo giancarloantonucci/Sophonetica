@@ -1,1 +1,7 @@
-@import url(./font/Sophonetica.css);
+@font-face {
+    font-family: 'Sophonetica';
+    src: url("sophonetica.woff2") format("woff2"),
+         url("sophonetica.woff") format("woff");;
+    font-weight: normal;
+    font-style: normal;
+}
