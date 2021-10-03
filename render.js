@@ -276,7 +276,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ԙ/g,'\uE032');
+    textnodes[i].nodeValue = _nv.replace(/ᴂ/g,'\uE032');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -301,7 +301,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/Ԙ/g,'\uE037');
+    textnodes[i].nodeValue = _nv.replace(/Œ/g,'\uE037');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
