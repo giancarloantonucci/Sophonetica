@@ -311,12 +311,12 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/@/g,'\uE039');
+    textnodes[i].nodeValue = _nv.replace(/ᵷ/g,'\uE039');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/⋊/g,'\uE03A');
+    textnodes[i].nodeValue = _nv.replace(/@/g,'\uE03A');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -418,8 +418,3 @@ for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
     textnodes[i].nodeValue = _nv.replace(/⟧/g,'\uE8C3');
 }
-
-// a̶b̶c̶d̶e̶f̶g̶h̶i̶j̶k̶l̶m̶n̶o̶p̶q̶r̶s̶t̶u̶v̶w̶x̶y̶z̶ ̶A̶B̶C̶D̶E̶F̶G̶H̶I̶J̶K̶L̶M̶N̶O̶P̶Q̶R̶S̶T̶U̶V̶W̶X̶Y̶Z̶
-// ƸYXWVUTƧЯỌꟼOИM⅃ᐴႱIHᎮᖷƎᗡƆᙠA zyxwvuƚƨɿpqonmlʞႱiʜǫʇɘbɔdɒ
-// ɐpⅽqөʈɓµ!ɾʞlwuobdʁƨʇ∩٨ʍxʎz ᗄᗷ⊂DEᖶ⅁HIᘃʞ⅂ʍиObÕᖉᴤ⊥∩⋀MX⅄Z
-// zʎxʍʌnʇsɹbdouɯןʞſıɥƃɟǝpɔqɐ zʎxʍʌnʇsɹbdouɯןʞſıɥƃɟǝpɔqɐ
