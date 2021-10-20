@@ -9,11 +9,11 @@ _Sophonetica_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 I
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## Usage
+## Usage on the web
 
-Add `https://cdn.jsdelivr.net/gh/giancarloantonucci/sophonetica/font.css` into the header of an HTML document to use it.
+Host it yourself or add `https://cdn.jsdelivr.net/gh/giancarloantonucci/sophonetica/font.css` into the header of an HTML document.
 
-### Shortcuts
+### Character shortcuts
 
 Because _Sophonetica_ uses many Private Use Area (PUA) code points, we have defined some character shortcuts, through `render.js`, that when put inside `<canipa></canipa>` will be replaced with the desired code points. Add
 
