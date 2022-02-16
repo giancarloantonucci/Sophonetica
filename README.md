@@ -39,7 +39,7 @@ to an HTML document to use it. Then, for example,
 |**E**|  ɛ  |  𐐺  |  ɐ  |  ᴧ  |  ⊼  | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
 |**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | (⨂) |  ɶ  | 𐑆/6 |  @  |  ɒ  |
 
-will map to the full list of 52 + 8 vocoids. Note that characters might be changed in future updates.
+will map to the full list of 52 + 8 vocoids. Note that the above characters might be changed in future updates.
 
 <details><summary><b>List</b></summary>
   
