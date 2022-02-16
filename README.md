@@ -41,7 +41,7 @@ to an HTML document to use it. Then, for example,
 
 will map to the full list of 52 + 8 vocoids. Note that characters might be changed in future updates.
 
-<details><summary><b>Full list of Unicode points for the above vocoids</b></summary>
+<details><summary><b>List</b></summary>
   
 - Basic Latin: a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
 - Latin-1 Supplement: æ (00E6), ø (00F8)
