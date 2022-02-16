@@ -36,7 +36,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ш/g,'\uE004');
+    textnodes[i].nodeValue = _nv.replace(/ꟺ/g,'\uE004');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -56,12 +56,12 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/⍵/g,'\uE008');
+    textnodes[i].nodeValue = _nv.replace(/𐐶/g,'\uE008');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/௰/g,'\uE009');
+    textnodes[i].nodeValue = _nv.replace(/𐐎/g,'\uE009');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -86,7 +86,12 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ⴴ/g,'\uE00E');
+    textnodes[i].nodeValue = _nv.replace(/ჾ/g,'\uE00D');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/∆/g,'\uE00E');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -101,11 +106,6 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/Ǝ/g,'\uE010');
-}
-
-for (var i = 0, len = textnodes.length; i<len; i++){
-    _nv = textnodes[i].nodeValue;
     textnodes[i].nodeValue = _nv.replace(/ᴈ/g,'\uE011');
 }
 
@@ -116,7 +116,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ⴳ/g,'\uE013');
+    textnodes[i].nodeValue = _nv.replace(/∇/g,'\uE013');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -127,11 +127,6 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
     textnodes[i].nodeValue = _nv.replace(/𐐺/g,'\uE015');
-}
-
-for (var i = 0, len = textnodes.length; i<len; i++){
-    _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ꓭ/g,'\uE015');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -171,7 +166,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/⍺/g,'\uE01D');
+    textnodes[i].nodeValue = _nv.replace(/α/g,'\uE01D');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -226,7 +221,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ⵚ/g,'\uE028');
+    textnodes[i].nodeValue = _nv.replace(/∅/g,'\uE028');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -241,7 +236,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ෆ/g,'\uE02B');
+    textnodes[i].nodeValue = _nv.replace(/ო/g,'\uE02B');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -251,7 +246,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ⵕ/g,'\uE02D');
+    textnodes[i].nodeValue = _nv.replace(/⦰/g,'\uE02D');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -266,7 +261,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ᓄ/g,'\uE030');
+    textnodes[i].nodeValue = _nv.replace(/9/g,'\uE030');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -276,7 +271,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ᴂ/g,'\uE032');
+    textnodes[i].nodeValue = _nv.replace(/⨁/g,'\uE032');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -301,7 +296,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/Œ/g,'\uE037');
+    textnodes[i].nodeValue = _nv.replace(/⨂/g,'\uE037');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -311,7 +306,12 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ϭ/g,'\uE039');
+    textnodes[i].nodeValue = _nv.replace(/𐑆/g,'\uE039');
+}
+
+for (var i = 0, len = textnodes.length; i<len; i++){
+    _nv = textnodes[i].nodeValue;
+    textnodes[i].nodeValue = _nv.replace(/6/g,'\uE039');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
