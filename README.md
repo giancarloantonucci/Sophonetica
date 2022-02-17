@@ -2,18 +2,14 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-A web version of the _Sophonetica_ font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), designed to write phonetics using Luciano Canepari's [<sup>can</sup>IPA](http://www.canipa.net/doku.php). This repo makes it possible to use _Sophonetica_ on the web via a CDN (see below). _Sophonetica_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
+This repo makes it possible to use _Sophonetica_, a [<sup>can</sup>IPA](http://www.canipa.net/doku.php) font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), via a CDN (see below). _Sophonetica_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## Usage on the web
+## Usage
 
-Host it yourself or add `https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/font.css` into the header of an HTML document.
-
-### Character shortcuts
-
-Because _Sophonetica_ uses many Private Use Area (PUA) code points, `render.js` defines some character shortcuts that when put inside `<canipa></canipa>` will be replaced with the desired code points. Add
+Because _Sophonetica_ uses many Private Use Area (PUA) code points, I thought it'd be useful to define some character shortcuts. Add
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/font.css">
@@ -22,13 +18,15 @@ Because _Sophonetica_ uses many Private Use Area (PUA) code points, `render.js` 
     font-family: Sophonetica, serif;
   }
 </style>
+```
 
-...
+to the header of your HTML document and
 
+```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/render.js'></script>
 ```
 
-to an HTML document to use it. Then, for example,
+to its footer. Then `render.js` will define some character shortcuts that, when put inside `<canipa></canipa>`, will be replaced with the desired code points. For example,
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
