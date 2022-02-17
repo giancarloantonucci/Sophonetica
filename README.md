@@ -41,7 +41,7 @@ will map to the full list of 52 + 8 vocoids. Note that the above characters migh
 
 <details><summary><b>List</b></summary>
   
-- Basic Latin: a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
+- Basic Latin: 6 (0036), 9 (0039), a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
 - Latin-1 Supplement: æ (00E6), ø (00F8)
 - Latin Extended-A: œ (0153)
 - IPA Extensions: ɐ (0250), ɑ (0251), ɒ (0252), ɔ (0254), ɘ (0258), ə (0259), ɛ (025B), ɞ (025E), ɤ (0264), ɨ (0268), ɪ (026A), ɯ (026F), ɵ (0275), ɶ (0276), ɷ (0277), ʉ (0289), ʊ (028A), ʏ (028F), ʚ (029A)
