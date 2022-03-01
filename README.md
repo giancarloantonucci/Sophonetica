@@ -34,7 +34,7 @@ to its footer. Then `render.js` will define some character shortcuts that, when 
 |**B**|  ɪ  |  ι  |  ᵻ  |  𐐶  | (𐐎) |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
 |**C**|  e  |  ɘ  |  ə  | ɤ/ჾ | (∆) | (∅) |  ø  |  ɵ  |  ო  |  o  |
 |**D**|  ᴇ  |  ⱻ  |  ᴈ  |  ჲ  | (∇) | (⦰) |  ᴓ  |  ɞ  |  9  |  σ  |
-|**E**|  ɛ  |  𐐺  |  ɐ  |  ᴧ  |  ⊼  | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
+|**E**|  ɛ  |  𐐺  |  ɐ  |  ʌ  |  ⊼  | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
 |**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | (⨂) |  ɶ  | 𐑆/6 |  @  |  ɒ  |
 
 will map to the full list of 52 + 8 vocoids. Note that the above characters might be changed in future updates.
