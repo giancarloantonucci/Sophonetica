@@ -231,7 +231,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ო/g,'\uE02B');
+    textnodes[i].nodeValue = _nv.replace(/ⱷ/g,'\uE02B');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
