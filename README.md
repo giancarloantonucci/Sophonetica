@@ -30,16 +30,16 @@ to its footer. Then `render.js` will define some character shortcuts that, when 
 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**A**|  i  |  ᴉ  |  ɨ  |  ɯ  | (ꟺ) |  ү  |  y  |  ʉ  |  μ  |  u  |
-|**B**|  ɪ  |  ι  |  ᵻ  |  ꭐ  | (Ꞷ) |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
-|**C**|  e  |  ɘ  |  ə  |  ɤ  | (∆) | (∅) |  ø  |  ɵ  | {ⱷ} |  o  |
-|**D**|  ᴇ  |  ⱻ  |  ᴈ  | {ჲ} | (∇) | (⦰) |  ᴓ  |  ɞ  | {9} |  σ  |
-|**E**|  ɛ  |  ꞛ  |  ɐ  |  ʌ  | {⊼} | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
-|**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | (⨂) |  ɶ  | {6} |  ꭤ  |  ɒ  |
+|**A**|  i  |  ᴉ  |  ɨ  |  ɯ  |  ꟺ  |  ү  |  y  |  ʉ  |  μ  |  u  |
+|**B**|  ɪ  |  ι  |  ᵻ  |  ꭐ  | {Ꞷ} |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
+|**C**|  e  |  ɘ  |  ə  |  ɤ  | {∆} | {∅} |  ø  |  ɵ  | {ⱷ} |  o  |
+|**D**|  ᴇ  |  ⱻ  |  ᴈ  | {ჲ} | {∇} | {⦰} |  ᴓ  |  ɞ  | {9} |  σ  |
+|**E**|  ɛ  |  ꞛ  |  ɐ  |  ʌ  | {⊼} | {⨁} |  œ  |  ᴔ  |  ʚ  |  ɔ  |
+|**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | {⨂} |  ɶ  | {6} |  ꭤ  |  ɒ  |
 
 will map to the full list of 52 + 8 vocoids.
 
-⚠️ Characters in {} and () might be changed in future updates. ⚠️
+⚠️ Characters within braces {} might be changed in future updates. ⚠️
 
 <details><summary><b>List</b></summary>
   
