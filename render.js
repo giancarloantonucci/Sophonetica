@@ -311,7 +311,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/@/g,'\uE03A');
+    textnodes[i].nodeValue = _nv.replace(/ꭤ/g,'\uE03A');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
