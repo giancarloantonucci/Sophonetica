@@ -121,11 +121,6 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/𐐺/g,'\uE015');
-}
-
-for (var i = 0, len = textnodes.length; i<len; i++){
-    _nv = textnodes[i].nodeValue;
     textnodes[i].nodeValue = _nv.replace(/ꞛ/g,'\uE015');
 }
 
