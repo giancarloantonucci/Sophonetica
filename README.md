@@ -31,11 +31,11 @@ to its footer. Then `render.js` will define some character shortcuts that, when 
 |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**A**|  i  |  ᴉ  |  ɨ  |  ɯ  | (ꟺ) |  ү  |  y  |  ʉ  |  μ  |  u  |
-|**B**|  ɪ  |  ι  |  ᵻ  | {𐐶} | (𐐎) |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
+|**B**|  ɪ  |  ι  |  ᵻ  |  ꭐ  | (Ꞷ) |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
 |**C**|  e  |  ɘ  |  ə  |  ɤ  | (∆) | (∅) |  ø  |  ɵ  | {ⱷ} |  o  |
 |**D**|  ᴇ  |  ⱻ  |  ᴈ  | {ჲ} | (∇) | (⦰) |  ᴓ  |  ɞ  | {9} |  σ  |
-|**E**|  ɛ  | 𐐺/ꞛ |  ɐ  |  ʌ  | {⊼} | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
-|**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | (⨂) |  ɶ  |{𐑆/6}|  ꭤ  |  ɒ  |
+|**E**|  ɛ  |  ꞛ  |  ɐ  |  ʌ  | {⊼} | (⨁) |  œ  |  ᴔ  |  ʚ  |  ɔ  |
+|**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | (⨂) |  ɶ  | {6} |  ꭤ  |  ɒ  |
 
 will map to the full list of 52 + 8 vocoids.
 
@@ -55,8 +55,7 @@ will map to the full list of 52 + 8 vocoids.
 - Supplemental Mathematical Operators: ⨁ (2A01), ⨂ (2A02)
 - Latin Extended-C: ⱻ (2C7B)
 - Miscellaneous Mathematical Symbols-B: ⦰ (29B0)
-- Latin Extended-D: ꞛ (A79B), ꟺ (A7FA)
-- Latin Extended-E: ꭤ (AB64)
-- Deseret: 𐐎 (1040E), 𐐶 (10436), 𐐺 (1043A), 𐑆 (10446)
+- Latin Extended-D: ꞛ (A79B), Ꞷ (A7B6), ꟺ (A7FA)
+- Latin Extended-E: ꭐ (AB50), ꭤ (AB64)
   
 </details>
