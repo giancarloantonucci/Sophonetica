@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-This repo makes it possible to use _Sophonetica_, a [<sup>can</sup>IPA](http://www.canipa.net/doku.php) font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), via a CDN (see below). _Sophonetica_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
+This repo makes it possible to use _Sophonetica_, a [canIPA](http://www.canipa.net/doku.php) font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), via a CDN (see below). _Sophonetica_ is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
