@@ -32,7 +32,7 @@ to its footer. Then `render.js` will define some character shortcuts that, when 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**A**|  i  |  ᴉ  |  ɨ  |  ɯ  |  ꟺ  |  ү  |  y  |  ʉ  |  μ  |  u  |
 |**B**|  ɪ  |  ι  |  ᵻ  |  ꭐ  | {Ꞷ} |  ч  |  ʏ  |  ᵿ  |  ɷ  |  ʊ  |
-|**C**|  e  |  ɘ  |  ə  |  ɤ  |  ⴴ  | {∅} |  ø  |  ɵ  | {ღ} |  o  |
+|**C**|  e  |  ɘ  |  ə  |  ɤ  |  ⴴ  | {∅} |  ø  |  ɵ  | {ო} |  o  |
 |**D**|  ᴇ  |  ⱻ  |  ᴈ  | {ჲ} |  ⴳ  | {⦰} |  ᴓ  |  ɞ  | {ᓄ} |  σ  |
 |**E**|  ɛ  |  ꞛ  |  ɐ  |  ʌ  | {⊼} | {⨁} |  œ  |  ᴔ  |  ʚ  |  ɔ  |
 |**F**|  æ  |  ᴀ  |  a  |  ɑ  |  α  | {⨂} |  ɶ  |  6  | {ᘞ} |  ɒ  |
@@ -43,19 +43,21 @@ will map to the full list of 52 + 8 vocoids.
 
 <details><summary><b>List</b></summary>
   
-- Basic Latin: 6 (0036), 9 (0039), a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
+- Basic Latin: 6 (0036), a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
 - Latin-1 Supplement: æ (00E6), ø (00F8)
 - Latin Extended-A: œ (0153)
 - IPA Extensions: ɐ (0250), ɑ (0251), ɒ (0252), ɔ (0254), ɘ (0258), ə (0259), ɛ (025B), ɞ (025E), ɤ (0264), ɨ (0268), ɪ (026A), ɯ (026F), ɵ (0275), ɶ (0276), ɷ (0277), ʉ (0289), ʊ (028A), ʏ (028F), ʚ (029A)
 - Greek and Coptic: α (03B1), ι (03B9), μ (03BC), σ (03C3)
 - Cyrillic: ч (0447), ү (04AF)
 - Georgian: ო (10DD), ჲ (10F2)
+- Unified Canadian Aboriginal Syllabics: ᓄ (14C4), ᘞ (161E)
 - Phonetic Extensions: ᴀ (1D00), ᴇ (1D07), ᴈ (1D08), ᴉ (1D09), ᴓ (1D13), ᴔ (1D14), ᴧ (1D27), ᵻ (1D7B), ᵿ (1D7F)
-- Mathematical Operators: ∅ (2205), ∆ (2206), ∇ (2207), ⊼ (22BC)
+- Mathematical Operators: ∅ (2205), ⊼ (22BC)
 - Supplemental Mathematical Operators: ⨁ (2A01), ⨂ (2A02)
 - Latin Extended-C: ⱻ (2C7B)
+- Tifinagh: ⴳ (2D33), ⴴ (2D34)
 - Miscellaneous Mathematical Symbols-B: ⦰ (29B0)
 - Latin Extended-D: ꞛ (A79B), Ꞷ (A7B6), ꟺ (A7FA)
-- Latin Extended-E: ꭐ (AB50), ꭤ (AB64)
+- Latin Extended-E: ꭐ (AB50)
   
 </details>
