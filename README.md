@@ -37,7 +37,7 @@ to its footer. Then `render.js` will define some character shortcuts that, when 
 | E | ɛ | ꞛ | ɐ | ʌ | {⊼} |   | œ | ᴔ | ʚ | ɔ |
 | F | æ | ᴀ | a | ɑ | α |   | ɶ | {6} | {8} | ɒ |
 
-will map to the full list of 52 + 8 vocoids:
+will map to the full list of 52 vocoids:
 
 ![CanIPA Vocoids](CanIPA_Vocoids.png)
 
