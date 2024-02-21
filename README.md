@@ -9,7 +9,9 @@ This repo makes it possible to use _Sophonetica_, a [canIPA](http://www.canipa.n
 
 ## Usage
 
-Because _Sophonetica_ uses many Private Use Area (PUA) code points, I thought it'd be useful to define some character shortcuts. Add
+Because _Sophonetica_ uses many Private Use Area (PUA) code points, I've included some character shortcuts. To use them, follow these steps:
+
+1. Add the following code to the header of your HTML document:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/font.css">
@@ -20,13 +22,13 @@ Because _Sophonetica_ uses many Private Use Area (PUA) code points, I thought it
 </style>
 ```
 
-to the header of your HTML document and
+2. Add the following code to the footer of your HTML document:
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/render.js'></script>
 ```
 
-to its footer. Then `render.js` will define some character shortcuts that, when put inside `<canipa></canipa>`, will be replaced with the desired code points. For example,
+By doing so, `<canipa></canipa>`, the `render.js` script will replace the character shortcuts with the appropriate code points that Sophonetica can read. For example, the characters
 
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -41,7 +43,8 @@ will map to the full list of 52 vocoids:
 
 ![CanIPA Vocoids](CanIPA_Vocoids.png)
 
-⚠️ Characters within braces {} might be changed in future updates. ⚠️
+> [!WARNING]  
+> Characters within braces {} might be changed in future updates.
 
 <details><summary><b>List</b></summary>
   
