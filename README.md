@@ -28,7 +28,7 @@ Because _Sophonetica_ uses many Private Use Area (PUA) code points, I've include
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/render.js'></script>
 ```
 
-By doing so, `<canipa></canipa>`, the `render.js` script will replace the character shortcuts with the appropriate code points that Sophonetica can read. For example, the characters
+By doing so, within `<canipa></canipa>`, the `render.js` script will replace the character shortcuts with the appropriate code points that Sophonetica can read. For example, the characters
 
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
