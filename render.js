@@ -46,7 +46,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ι/g,'\uE006');
+    textnodes[i].nodeValue = _nv.replace(/ɩ/g,'\uE006');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -101,7 +101,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/ᴈ/g,'\uE011');
+    textnodes[i].nodeValue = _nv.replace(/ɜ/g,'\uE011');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
@@ -181,7 +181,7 @@ for (var i = 0, len = textnodes.length; i<len; i++){
 
 for (var i = 0, len = textnodes.length; i<len; i++){
     _nv = textnodes[i].nodeValue;
-    textnodes[i].nodeValue = _nv.replace(/μ/g,'\uE021');
+    textnodes[i].nodeValue = _nv.replace(/µ/g,'\uE021');
 }
 
 for (var i = 0, len = textnodes.length; i<len; i++){
