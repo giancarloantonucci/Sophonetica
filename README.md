@@ -35,7 +35,7 @@ By doing so, within `<canipa></canipa>`, the `render.js` script will replace the
 | A | i | ᴉ | ɨ | ɯ |   | ү | y | ʉ | µ | u |
 | B | ɪ | ɩ | ᵻ | {ω} |   | ч | ʏ | ᵿ | ɷ | ʊ |
 | C | e | ɘ | ə | ɤ |   |   | ø | ɵ | ო | o |
-| D | ᴇ | ⱻ | ɜ | ჲ |   |   | ᴓ | ɞ | {9} | σ |
+| D | ᴇ | ⱻ | ɜ | ᴥ |   |   | ᴓ | ɞ | {9} | σ |
 | E | ɛ | ꞛ | ɐ | ʌ | {⊼} |   | œ | ᴔ | ʚ | ɔ |
 | F | æ | ᴀ | a | ɑ | α |   | ɶ | {6} | {8} | ɒ |
 
@@ -54,8 +54,8 @@ will map to the full list of 52 vocoids:
 - IPA Extensions: ɐ (0250), ɑ (0251), ɒ (0252), ɔ (0254), ɘ (0258), ə (0259), ɛ (025B), ɜ (025C), ɞ (025E), ɤ (0264), ɨ (0268), ɩ (0269), ɪ (026A), ɯ (026F), ɵ (0275), ɶ (0276), ɷ (0277), ʉ (0289), ʊ (028A), ʏ (028F), ʚ (029A)
 - Greek and Coptic: α (03B1), σ (03C3), ω (03C9)
 - Cyrillic: ч (0447), ү (04AF)
-- Georgian: ო (10DD), ჲ (10F2)
-- Phonetic Extensions: ᴀ (1D00), ᴇ (1D07), ᴉ (1D09), ᴓ (1D13), ᴔ (1D14), ᴧ (1D27), ᵻ (1D7B), ᵿ (1D7F)
+- Georgian: ო (10DD)
+- Phonetic Extensions: ᴀ (1D00), ᴇ (1D07), ᴉ (1D09), ᴓ (1D13), ᴔ (1D14), ᴥ (1D25), ᴧ (1D27), ᵻ (1D7B), ᵿ (1D7F)
 - Mathematical Operators: ⊼ (22BC)
 - Latin Extended-C: ⱻ (2C7B)
 - Latin Extended-D: ꞛ (A79B)
