@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-This repo holds _Sophonetica_, a font from from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), the first designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php).
+This repo holds _Sophonetica_, a font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), the first designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php).
 
 _Sophonetica_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
