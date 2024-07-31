@@ -2,7 +2,11 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-This repo makes it possible to use _Sophonetica_, a [canIPA](http://www.canipa.net/doku.php) font from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), via a CDN (see below).
+This repo holds _Sophonetica_, the first font designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php), from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz). 
+
+This repo makes it possible to use _Sophonetica_, a [canIPA](http://www.canipa.net/doku.php) font ,  (see below).
+
+_Sophonetica_ is a font designed to write phonetics using Luciano Canepari's canIPA. More details about canIPA can be found at .
 
 _Sophonetica_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
@@ -11,9 +15,7 @@ _Sophonetica_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0
 
 ## Usage
 
-Because _Sophonetica_ uses many Private Use Area (PUA) code points, I've included some character shortcuts. To use them, follow these steps:
-
-1. Add the following code to the header of your HTML document:
+This repo allows you to easily embed _Sophonetica_ into your web content through a CDN. To use it, add the following code to the header of your HTML document:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/font.css">
@@ -24,13 +26,13 @@ Because _Sophonetica_ uses many Private Use Area (PUA) code points, I've include
 </style>
 ```
 
-2. Add the following code to the footer of your HTML document:
+Since _Sophonetica_ uses many Private Use Area (PUA) code points, I've included some character shortcuts. To use them, add the following code to the footer of your HTML document:
 
 ```html
 <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/render.js'></script>
 ```
 
-By doing so, within `<canipa></canipa>`, the `render.js` script will replace the character shortcuts with the appropriate code points that Sophonetica can read. For example, the characters
+This will enable the `render.js` script to replace the character shortcuts - within `<canipa></canipa>` - with the appropriate code points, allowing _Sophonetica_ to display correctly. For example, the characters
 
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
