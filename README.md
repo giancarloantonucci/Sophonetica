@@ -2,11 +2,7 @@
 
 [![CC BY-SA 4.0][license-shield]][license]
 
-This repo holds _Sophonetica_, the first font designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php), from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz). 
-
-This repo makes it possible to use _Sophonetica_, a [canIPA](http://www.canipa.net/doku.php) font ,  (see below).
-
-_Sophonetica_ is a font designed to write phonetics using Luciano Canepari's canIPA. More details about canIPA can be found at .
+This repo holds _Sophonetica_, a font from from [IdegenNyelvŐr](https://idegennyelvor.blog.hu/2011/04/10/betukeszlet_canipa_hoz), the first designed to write phonetics using Luciano Canepari's canIPA (http://www.canipa.net/doku.php).
 
 _Sophonetica_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License][license].
 
@@ -15,7 +11,7 @@ _Sophonetica_ is licensed under the [Creative Commons Attribution-ShareAlike 4.0
 
 ## Usage
 
-This repo allows you to easily embed _Sophonetica_ into your web content through a CDN. To use it, add the following code to the header of your HTML document:
+This repo also allows you to easily embed _Sophonetica_ into your web content through a CDN. To use it, add the following code to the header of your HTML document:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/giancarloantonucci/Sophonetica/font.css">
@@ -25,6 +21,8 @@ This repo allows you to easily embed _Sophonetica_ into your web content through
   }
 </style>
 ```
+
+## Shortcuts
 
 Since _Sophonetica_ uses many Private Use Area (PUA) code points, I've included some character shortcuts. To use them, add the following code to the footer of your HTML document:
 
@@ -49,19 +47,3 @@ will map to the full list of 52 vocoids:
 
 > [!WARNING]  
 > Characters within braces {} might be changed in future updates.
-
-<details><summary><b>List</b></summary>
-  
-- Basic Latin: 6 (0036), 8 (0038), 9 (0039), a (0061), e (0065), i (0069), o (006F), u (0075), y (0079)
-- Latin-1 Supplement: µ (00B5), æ (00E6), ø (00F8)
-- Latin Extended-A: œ (0153)
-- IPA Extensions: ɐ (0250), ɑ (0251), ɒ (0252), ɔ (0254), ɘ (0258), ə (0259), ɛ (025B), ɜ (025C), ɞ (025E), ɤ (0264), ɨ (0268), ɩ (0269), ɪ (026A), ɯ (026F), ɵ (0275), ɶ (0276), ɷ (0277), ʉ (0289), ʊ (028A), ʌ (028C), ʏ (028F), ʚ (029A)
-- Greek and Coptic: α (03B1), σ (03C3), ω (03C9)
-- Cyrillic: ч (0447), ү (04AF)
-- Georgian: ო (10DD)
-- Phonetic Extensions: ᴀ (1D00), ᴇ (1D07), ᴉ (1D09), ᴓ (1D13), ᴔ (1D14), ᴥ (1D25), ᵻ (1D7B), ᵿ (1D7F)
-- Mathematical Operators: ⊼ (22BC)
-- Latin Extended-C: ⱻ (2C7B)
-- Latin Extended-D: ꞛ (A79B)
-  
-</details>
