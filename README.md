@@ -46,4 +46,4 @@ will map to the full list of 52 vocoids:
 ![CanIPA Vocoids](CanIPA_Vocoids.png)
 
 > [!WARNING]  
-> Characters within braces {} might be changed in future updates.
+> Characters within braces {} might change in future updates.
